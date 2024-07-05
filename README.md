@@ -21,7 +21,8 @@ A simple weather app built with Flutter that provides weather information for a 
 - Search history: Displays a list of recently searched cities instead of showing just the last searched city.
 - Persistent search history: Maintains the search history even after the app is restarted.
 - Delete button: Includes a delete button to clear search history.
-- Theme toggle: Added a light/dark mode to suit users preference and maintain healthy user experience
+- Theme toggle: Added a light/dark mode to suit users preference and maintain healthy user experience.
+- Added custom icon and splash screen for both ios/android.
 
 ## Important note 
 - Please use your own api key.
