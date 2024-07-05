@@ -37,12 +37,15 @@ A simple weather app built with Flutter that provides weather information for a 
 1. Clone the repository:
 
 git clone https://github.com/your-username/weather-app.git
-cd weather-app
+cd weather-app.
 
-2. Open the folder in prefered IDE( VS code/ Android Studio):
+2. Enable sdk:
+   enable dart/flutter sdk for all modules of the project.
+
+4. Open the folder in prefered IDE( VS code/ Android Studio):
    Get dependencies - Run the following command: flutter pub get.
 
-3. Run the app:
+5. Run the app:
    a. Run the app from the IDE terminal - Run the command: flutter run
        Then choose your emulator.
    b. Run the app directly using the run button from the IDE, but first launch your emulator.
