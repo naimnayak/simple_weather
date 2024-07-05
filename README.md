@@ -46,6 +46,6 @@ cd weather-app.
    Get dependencies - Run the following command: flutter pub get.
 
 5. Run the app:
-   a. Run the app from the IDE terminal - Run the command: flutter run
+   a. Run the app from the IDE terminal - Run the command: flutter run,
        Then choose your emulator.
    b. Run the app directly using the run button from the IDE, but first launch your emulator.
