@@ -36,7 +36,7 @@ A simple weather app built with Flutter that provides weather information for a 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/naimnayak/weather-app.git
 cd weather-app.
 
 2. Enable sdk:
