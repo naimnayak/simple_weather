@@ -51,6 +51,6 @@ cd weather-app.
        Then choose your emulator.
    b. Run the app directly using the run button from the IDE, but first launch your emulator.
 
-## If facing diffuculty in set up then
+## If facing difficulty in set up then
 - Directly download the app from the repository:
 - Click on build/app/outputs/flutter-apk/app-debug.apk 
